@@ -15,7 +15,6 @@ ML_Project/
 │   ├── class_distribution.png              # Distribution of gesture classes
 │   ├── confusion_matrices.png              # Confusion matrices for all models
 │   ├── hand_landmarks_per_class.png        # Landmark visualizations per class
-│   └── normalization_comparison.png        # Effect of feature normalization
 ├── Videos/
 │   ├── Input - Made with Clipchamp.mp4     # input video
 │   └── output.mp4                          # Model prediction output video
