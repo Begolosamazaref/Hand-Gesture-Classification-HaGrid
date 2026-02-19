@@ -4,7 +4,7 @@ A machine learning project that classifies hand gestures using hand landmark dat
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ML_Project/
@@ -27,7 +27,7 @@ ML_Project/
 
 ---
 
-## 🔄 Workflow Overview
+## Workflow Overview
 
 ```
 MediaPipe Hand Landmark Extraction (21 landmarks × 3 coords = 63 features)
@@ -73,7 +73,7 @@ pip install scikit-learn mediapipe pandas numpy matplotlib opencv-python jupyter
 jupyter lab Notebook/hand_gesture_classification.ipynb
 ```
 
-## 🌿 Branches
+## Branches
 
 | Branch | Contents |
 |--------|----------|
@@ -82,7 +82,7 @@ jupyter lab Notebook/hand_gesture_classification.ipynb
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **MediaPipe** — hand landmark extraction
 - **scikit-learn** — model training and evaluation
@@ -92,7 +92,7 @@ jupyter lab Notebook/hand_gesture_classification.ipynb
 
 ---
 
-## 👤 Author
+## Author
 
 **Begolosamazaref**  
 ITI Diploma  
