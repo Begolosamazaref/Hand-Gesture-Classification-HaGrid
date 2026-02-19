@@ -1,0 +1,14 @@
+artifact_uri: file:d:/ITI_Diploma/MLFlow/ML_project/Hand-Gesture-Classification-HaGrid/mlruns/431442193890672801/8eb178fa0ddf43d389dc5bcdbce76bd9/artifacts
+end_time: 1771519390321
+entry_point_name: ''
+experiment_id: '431442193890672801'
+lifecycle_stage: active
+run_id: 8eb178fa0ddf43d389dc5bcdbce76bd9
+run_name: Random-Forest-200trees
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771519350010
+status: 3
+tags: []
+user_id: osama

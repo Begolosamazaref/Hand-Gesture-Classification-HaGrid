@@ -1,0 +1,15 @@
+artifact_uri: file:d:/ITI_Diploma/MLFlow/ML_project/Hand-Gesture-Classification-HaGrid/mlruns/431442193890672801/10d7b963567b4ab7a1c6e58bb215438e/artifacts
+deleted_time: 1771519934322
+end_time: 1771517483452
+entry_point_name: ''
+experiment_id: '431442193890672801'
+lifecycle_stage: deleted
+run_id: 10d7b963567b4ab7a1c6e58bb215438e
+run_name: KNN-k7-distance
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771517418247
+status: 3
+tags: []
+user_id: osama

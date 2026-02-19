@@ -1,0 +1,10 @@
+artifact_location: file:d:/ITI_Diploma/MLFlow/ML_project/Hand-Gesture-Classification-HaGrid/mlruns/431442193890672801/models/m-6d90dabe444b4479a752fe61e83282be/artifacts
+creation_timestamp: 1771517435286
+experiment_id: '431442193890672801'
+last_updated_timestamp: 1771517438751
+model_id: m-6d90dabe444b4479a752fe61e83282be
+model_type: null
+name: model
+source_run_id: 5402701cdd2a45489d3b379292c6ed70
+status: 2
+status_message: null

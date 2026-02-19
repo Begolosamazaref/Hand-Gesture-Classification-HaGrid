@@ -1,0 +1,15 @@
+artifact_uri: file:d:/ITI_Diploma/MLFlow/ML_project/Hand-Gesture-Classification-HaGrid/mlruns/431442193890672801/54d353a930c2402eb2c36ace7d3035c9/artifacts
+deleted_time: 1771519934314
+end_time: 1771518458369
+entry_point_name: ''
+experiment_id: '431442193890672801'
+lifecycle_stage: deleted
+run_id: 54d353a930c2402eb2c36ace7d3035c9
+run_name: MLP-256-128-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771518438188
+status: 3
+tags: []
+user_id: osama
