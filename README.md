@@ -21,7 +21,7 @@ This project classifies 18 hand gestures using 3D landmark coordinates (x, y, z)
 
 ![Class Distribution](https://github.com/Begolosamazaref/Hand-Gesture-Classification-HaGrid/blob/research/Mlflow_ScreenShots/class_distribution.png)
 
-![Hand Landmarks per Class](hand_landmarks_per_class.png)
+![Hand Landmarks per Class](https://github.com/Begolosamazaref/Hand-Gesture-Classification-HaGrid/blob/research/Mlflow_ScreenShots/hand_landmarks_per_class.png)
 
 ## Model Comparison
 
