@@ -32,18 +32,16 @@ This project classifies 18 hand gestures using 3D landmark coordinates (x, y, z)
 | SVM-RBF-C10 | 96.98% | 0.97 | 0.97 | 0.97 | 31.5 |
 | KNN-k7-distance | 93.69% | 0.94 | 0.94 | 0.94 | 22.1 |
 
-![Confusion Matrices](confusion_matrices.png)
+![Confusion Matrices](https://github.com/Begolosamazaref/Hand-Gesture-Classification-HaGrid/blob/research/Mlflow_ScreenShots/confusion_matrices.png)
 
 ## Why MLP?
 
-The MLP-256-128-64 was selected as the production model. It achieved the highest accuracy (98.75%) and showed the cleanest confusion matrix across all 18 classes — including visually similar pairs like `peace`/`peace_inverted` and `two_up`/`two_up_inverted` where other models struggled.
-
-Beyond raw accuracy, an MLP is well-suited to this problem because hand landmarks have complex geometric interdependencies that benefit from non-linear learning. Random Forest was a strong runner-up but slower to train and predict with 200 trees. SVM offered no meaningful accuracy advantage for its training cost. KNN showed the most inter-class confusion and does not scale well to real-time inference.
+The MLP-256-128-64 was selected as the production model. It achieved the highest accuracy (98.75%) and showed the cleanest confusion matrix across all 18 classes.
 
 The best model was registered in the MLflow Model Registry as `Best-Hand-Gesture-Classifier-MLP` with a `production` alias.
 
 ## MLflow Tracking
 
-![MLflow Runs](Runs.png)
+![MLflow Runs](https://github.com/Begolosamazaref/Hand-Gesture-Classification-HaGrid/blob/research/Mlflow_ScreenShots/Runs.png)
 
-![Registered Model](RegisteredModel.png)
+![Registered Model](https://github.com/Begolosamazaref/Hand-Gesture-Classification-HaGrid/blob/research/Mlflow_ScreenShots/RegisteredModel.png)
