@@ -19,7 +19,7 @@ This project classifies 18 hand gestures using 3D landmark coordinates (x, y, z)
 - **Features**: 21 MediaPipe landmarks x 3 coordinates (x, y, z) = 63 features per sample
 - **Classes**: 18 gesture types 
 
-![Class Distribution](class_distribution.png)
+![Class Distribution](https://github.com/Begolosamazaref/Hand-Gesture-Classification-HaGrid/blob/research/Mlflow_ScreenShots/class_distribution.png)
 
 ![Hand Landmarks per Class](hand_landmarks_per_class.png)
 
